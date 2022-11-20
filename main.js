@@ -1,0 +1,5 @@
+const form = document.querySelector('form')
+const Name = document.querySelector('.Name')
+const Email = document.querySelector('.Email')
+const Age = document.querySelector('.Age')
+const Submit = document.querySelector('input[button]')
